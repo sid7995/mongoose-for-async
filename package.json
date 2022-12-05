@@ -1,0 +1,21 @@
+{
+  "name": "mongoose-for-async",
+  "description": "Mongoose plugin which accepts async promises",
+  "keywords": [
+    "mongoose",
+    "async",
+    "get",
+    "set",
+    "promises"
+  ],
+  "version": "1.0.0",
+  "main": "src/mongoosePlugin.js",
+  "repository": "https://github.com/c0d0g3n/mongoose-async",
+  "author": "sid7995 <sid090795@gmail.com> (https://github.com/sid7995)",
+  "dependencies": {
+    "is-promise": "^2.1.0"
+  },
+  "devDependencies": {
+    "mongoose": "5.13.15"
+  }
+}
