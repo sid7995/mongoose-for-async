@@ -8,7 +8,7 @@
     "set",
     "promises"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/mongoosePlugin.js",
   "repository": "https://github.com/sid7995/mongoose-for-async",
   "author": "sid7995 <sid090795@gmail.com> (https://github.com/sid7995)",
