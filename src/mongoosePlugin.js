@@ -30,6 +30,7 @@ module.exports = exports = function plugin (schema, options) {
     const value = schema.obj[id]
 
     // path is getter
+
     if (value.getter instanceof Function) getterObject[id] = value.getter
 
     // path is setter
